@@ -1,0 +1,13 @@
+jasypt:
+  encryptor:
+    password: jibanez
+
+chatgpt:
+  api-key: ENC(DQ7wMHLcOk9ZFAUBKEuijIGSZNryoTc4T6UZ5+yYCs+nvF2nkLdl9/6g84BQTy9TEn9xY0kxCqmXqHc9ljuS8DHP407yjmHHHKAc9du5OO5kKOZ73+6Z+pzsgW8PfNE0)
+
+#Swagger
+spring-doc:
+  api-docs:
+    path: /api-docs
+  swagger-ui:
+    path: /swagger-ui/index.html
